@@ -1,2 +1,2 @@
-<h1>Hello!</h1>
-<h2>Hello!</h2>
+<h1>Welcome to the recipe site</h1>
+<a href="/recipes/submit" class="text-cyan-700">Go to submit</a>
