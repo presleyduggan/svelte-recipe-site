@@ -1,2 +1,5 @@
 # svelte-recipe-site
- testing svelte
+
+testing svelte
+
+going to make a little recipe site with svelte and probably pocketbase :)
